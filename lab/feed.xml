@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:1025A18E-0DE2-4F1C-BAEA-B2651249E9A1</id>
+ <title>Page list Atom feed</title>
+ <updated>2017-06-26T17:00:59-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:D88E6177-9CAC-462F-85C7-1ADAEEE84EA2</id>
+  <title>Research</title>
+  <title xmlns="urn:iweb:">Research</title>
+  <in-navbar xmlns="urn:iweb:">D88E6177-9CAC-462F-85C7-1ADAEEE84EA2</in-navbar>
+  <link rel="alternate" href="Research.html"/>
+  <updated>2017-06-26T17:00:59.001-07:00</updated>
+  <content>Research</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:FE352B96-ABF1-4333-AE74-D9A457D0076C</id>
+  <title>People</title>
+  <title xmlns="urn:iweb:">People</title>
+  <in-navbar xmlns="urn:iweb:">FE352B96-ABF1-4333-AE74-D9A457D0076C</in-navbar>
+  <link rel="alternate" href="People.html"/>
+  <updated>2017-06-26T17:00:59.002-07:00</updated>
+  <content>People</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F0E646D0-9DDD-47B6-833E-0AC963230BB6</id>
+  <title>Publication</title>
+  <title xmlns="urn:iweb:">Publication</title>
+  <in-navbar xmlns="urn:iweb:">F0E646D0-9DDD-47B6-833E-0AC963230BB6</in-navbar>
+  <link rel="alternate" href="Publication.html"/>
+  <updated>2017-06-26T17:00:59.003-07:00</updated>
+  <content>Publication</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:94B26F83-0962-4945-B4F1-251D0763F8E6</id>
+  <title>Contact</title>
+  <title xmlns="urn:iweb:">Contact</title>
+  <in-navbar xmlns="urn:iweb:">94B26F83-0962-4945-B4F1-251D0763F8E6</in-navbar>
+  <link rel="alternate" href="Contact.html"/>
+  <updated>2017-06-26T17:00:59.004-07:00</updated>
+  <content>Contact</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F44C1E43-D1E0-446B-B68F-CC37DF4ECC59</id>
+  <title>News</title>
+  <title xmlns="urn:iweb:">News</title>
+  <in-navbar xmlns="urn:iweb:">F44C1E43-D1E0-446B-B68F-CC37DF4ECC59</in-navbar>
+  <link rel="alternate" href="News.html"/>
+  <updated>2017-06-26T17:00:59.005-07:00</updated>
+  <content>News</content>
+ </entry>
+</feed>

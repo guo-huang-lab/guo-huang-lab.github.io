@@ -1,0 +1,719 @@
+.paragraph_style {
+    color: rgb(0, 0, 0);
+    font-family: 'MS-PMincho', 'MS PMincho', serif;
+    font-size: 49px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 59px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: center;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style {
+    font-family: 'MS-PMincho', 'MS PMincho', serif;
+    font-size: 40px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 48px;
+}
+.style_1 {
+    font-family: 'MS-PMincho', 'MS PMincho', serif;
+    font-size: 25px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+.style_2 {
+    font-family: 'MS-PMincho', 'MS PMincho', serif;
+    font-size: 47px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56px;
+}
+.paragraph_style_1 {
+    color: rgb(0, 0, 0);
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-size: 12px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 15px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_3 {
+    font-family: 'TimesNewRomanPSMT', 'Times New Roman', serif;
+    font-size: 8px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+    vertical-align: 4px;
+}
+.paragraph_style_2 {
+    color: rgb(0, 0, 0);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 13px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_3 {
+    color: rgb(0, 0, 0);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 12px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_4 {
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+}
+.style_5 {
+    color: rgb(20, 14, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 18px;
+    opacity: 1.00;
+}
+.paragraph_style_4 {
+    color: rgb(0, 0, 0);
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 13px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_6 {
+    color: rgb(20, 14, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_7 {
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+.style_8 {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 11px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 13px;
+}
+.style_9 {
+    color: rgb(24, 16, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_10 {
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+.style_11 {
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+}
+.style_12 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 16px;
+}
+.paragraph_style_5 {
+    color: rgb(0, 0, 0);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 13px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_13 {
+    color: rgb(51, 51, 51);
+    line-height: 5px;
+    opacity: 1.00;
+}
+.style_14 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 5px;
+}
+.style_15 {
+    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 5px;
+}
+.style_16 {
+    color: rgb(0, 0, 0);
+    line-height: 5px;
+    opacity: 1.00;
+}
+.paragraph_style_6 {
+    color: rgb(0, 0, 0);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 13px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_17 {
+    color: rgb(26, 29, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_18 {
+    color: rgb(26, 29, 255);
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_19 {
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+}
+.style_20 {
+    color: rgb(37, 21, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_21 {
+    color: rgb(33, 32, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.paragraph_style_7 {
+    color: rgb(0, 0, 0);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 17px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_22 {
+    color: rgb(16, 35, 251);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 17px;
+    opacity: 1.00;
+}
+.style_23 {
+    color: rgb(16, 35, 251);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+    opacity: 1.00;
+}
+.style_24 {
+    line-height: 17px;
+}
+.style_25 {
+    color: rgb(43, 31, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 17px;
+    opacity: 1.00;
+}
+.style_26 {
+    color: rgb(20, 51, 254);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 17px;
+    opacity: 1.00;
+}
+.paragraph_style_8 {
+    color: rgb(0, 0, 0);
+    font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 18px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_27 {
+    color: rgb(15, 29, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_28 {
+    color: rgb(12, 37, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_29 {
+    color: rgb(12, 37, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_30 {
+    color: rgb(24, 35, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_31 {
+    color: rgb(26, 23, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_32 {
+    color: rgb(27, 23, 255);
+    font-family: 'Arial-BoldItalicMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.style_33 {
+    color: rgb(27, 23, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 16px;
+    opacity: 1.00;
+}
+.paragraph_style_9 {
+    color: rgb(40, 40, 40);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 13px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_10 {
+    color: rgb(22, 33, 255);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 18px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 21px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 13px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_11 {
+    color: rgb(40, 40, 40);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 14px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 16px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 13px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.style_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: transparent;
+    opacity: 1.00;
+}
+.Body {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.Free_Form {
+    color: rgb(88, 77, 77);
+    font-family: 'ArialMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.graphic_image_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+.graphic_textbox_layout_style_default_External_537_62 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_134_33 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_206_28 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_406_40 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_451_2593 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default {
+    padding: 4px;
+}
+.graphic_textbox_style_default_SkipStroke {
+    background: transparent;
+    opacity: 1.00;
+}
+a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+ol  { 
+      padding:0;
+      margin:0;
+      text-indent:0;
+      list-style-type:none ;
+      list-style-image:none
+    }
+.Bullet { 
+          text-decoration:none ;
+          text-transform:none ;
+          border: none;          
+        }
+.bumper {
+    font-size: 1px;
+    line-height: 1px;
+}
+.tinyText {
+    font-size: 1px;
+    line-height: 1px;
+}
+#widget0 a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+#widget0 a:visited {
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
+}
+#widget0 a {
+    color: rgb(88, 77, 77);
+    text-decoration: underline;
+}
+.spacer {
+    font-size: 1px;
+    line-height: 1px;
+}
+body { 
+    -webkit-text-size-adjust: none;
+}
+div { 
+    overflow: visible; 
+}
+img { 
+    border: none; 
+}
+.InlineBlock { 
+    display: inline; 
+}
+.InlineBlock { 
+    display: inline-block; 
+}
+.inline-block {
+    display: inline-block;
+    vertical-align: baseline;
+    margin-bottom:0.3em;
+}
+.inline-block.shape-with-text {
+    vertical-align: bottom;
+}
+.vertical-align-middle-middlebox {
+    display: table;
+}
+.vertical-align-middle-innerbox {
+    display: table-cell;
+    vertical-align: middle;
+}
+div.paragraph {
+    position: relative;
+}
+li.full-width {
+    width: 100;
+}
